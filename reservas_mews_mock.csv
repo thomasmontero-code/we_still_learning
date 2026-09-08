@@ -1,0 +1,26 @@
+ID_Reserva;PropiedadID;Huesped;Fecha_Entrada;Fecha_Salida;Importe_Total;Estado;Canal
+R-1001;P-01;Laura Gómez;03/01/2026;10/01/2026;850.00;Confirmada;Directo
+R-1002;P-02;Marc Duran ;2026-01-04;2026-01-09;;confirmada;Booking
+R-1003;P-01;Laura Gómez;03/01/2026;10/01/2026;850.00;Confirmada;Directo
+R-1004;P-03; Ines Ferrer;05/01/2026;15/01/2026;1200.50;CONFIRMADA;Airbnb
+R-1005;P-04;Tomas Vidal;2026-01-06;2026-01-08;300.00;cancelada;Directo
+R-1006;P-02;Marc Duran;04/01/2026;09/01/2026;620.00;Confirmada;Booking
+R-1007;P-05;;07/01/2026;12/01/2026;980.00;Confirmada;Directo
+R-1008;P-01;Nuria Costa;2026-01-08;2026-01-11;410.00;Confirmada;Booking
+R-1009;P-06;Pablo Ruiz;09/01/2026;09/01/2026;0.00;Cancelada;Directo
+R-1010;P-03;Ines Ferrer;05/01/2026;15/01/2026;1200.50;Confirmada;Airbnb
+R-1011;P-07;Sara Lopez;10/01/2026;20/01/2026;2100.00;confirmada;Directo
+R-1012;P-08;Jorge Pena;2026-01-11;2026-01-13;;Pendiente;Booking
+R-1013;P-02;Marc Duran;2026-01-04;2026-01-09;620.00;confirmada;Booking
+R-1014;P-04;Tomas Vidal;13/01/2026;18/01/2026;750.00;Confirmada;Directo
+R-1015;P-05;Elena Soto;14/01/2026;16/01/2026;340.00;Confirmada;Airbnb
+R-1016;P-01;Nuria Costa;2026-01-08;2026-01-11;410.00;confirmada;Booking
+R-1017;P-06;Pablo Ruiz;16/01/2026;22/01/2026;890.00;Confirmada;Directo
+R-1018;P-07;Sara Lopez;10/01/2026;20/01/2026;2100.00;Confirmada;Directo
+R-1019;P-03;;18/01/2026;25/01/2026;1050.00;Cancelada;Booking
+R-1020;P-08;Jorge Pena;2026-01-11;2026-01-13;280.00;Pendiente;Booking
+R-1021;P-02;Clara Nunez;20/01/2026;27/01/2026;930.00;Confirmada;Airbnb
+R-1022;P-05;Elena Soto;14/01/2026;16/01/2026;340.00;confirmada;Airbnb
+R-1023;P-01;Diego Marin;22/01/2026;29/01/2026;760.00;Confirmada;Directo
+R-1024;P-04;Tomas Vidal;13/01/2026;18/01/2026;750.00;Confirmada;Directo
+R-1025;P-06;Marta Leon;24/01/2026;28/01/2026;;Confirmada;Booking

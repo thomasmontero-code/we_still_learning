@@ -1,0 +1,28 @@
+documneto = open("reservas_mews_mock.csv", "r")
+
+confirmadas = 0
+canceladas = 0
+pendientes = 0
+
+numero_de_linea = 0
+
+for linea in documneto:
+    numero_de_linea += 1
+    if numero_de_linea == 1:
+        continue
+
+    partes = linea.split(";")
+    estado = partes[6].strip()
+
+    if estado == "confirmada" or estado == "Confirmada" or estado == "CONFIRMADA":
+        confirmadas += 1
+    elif estado == "cancelada":
+        canceladas += 1
+    elif estado == "pendiente":
+        pendientes += 1
+
+print("Confirmadas:", confirmadas)
+print("Canceladas:", canceladas)
+print("Pendientes:", pendientes)
+
+documneto.close()
